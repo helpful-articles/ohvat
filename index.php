@@ -12,3 +12,5 @@ $client->forceRedirectOffer();       // redirect to offer if an offer is chosen
 // $client->execute();             // request to api, show the output and continue
 $client->executeAndBreak();     // to stop page execution if there is redirect or some output
 ?>
+
+
